@@ -22,11 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="hadoop-book" />
+        <module name="pig" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="hadoop-book" target="1.5" />
+      <module name="pig" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

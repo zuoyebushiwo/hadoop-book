@@ -6,7 +6,18 @@
 
     <groupId>yue.ban.xiao.yue.qu</groupId>
     <artifactId>hadoop-book</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>pig</module>
+    </modules>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>3.8.1</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 </project>

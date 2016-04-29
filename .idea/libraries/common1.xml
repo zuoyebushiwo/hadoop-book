@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="common1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/hadoop/httpfs" />
+      <root url="file://$PROJECT_DIR$/hadoop/common" />
+      <root url="file://$PROJECT_DIR$/hadoop/hdfs" />
+      <root url="file://$PROJECT_DIR$/hadoop/mapreduce" />
+      <root url="file://$PROJECT_DIR$/hadoop/yarn" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/hadoop/common" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/hadoop/hdfs" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/hadoop/mapreduce" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/hadoop/yarn" recursive="false" />
+  </library>
+</component>

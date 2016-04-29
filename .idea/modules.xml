@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/hadoop-book.iml" filepath="$PROJECT_DIR$/hadoop-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig/pig.iml" filepath="$PROJECT_DIR$/pig/pig.iml" />
     </modules>
   </component>
 </project>
